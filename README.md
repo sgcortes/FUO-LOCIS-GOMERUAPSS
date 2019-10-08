@@ -11,7 +11,6 @@ Este código Python se ejecuta sobre las imágenes de las carpetas _Termica_ y _
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sgcortes/FUO-LOCIS-GOMERUAPSS/master?filepath=https%3A%2F%2Fgithub.com%2Fsgcortes%2FFUO-LOCIS-GOMERUAPSS%2Fblob%2Fmaster%2FTHERMAL_VISIBLE.ipynb)
 
-
 https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/THERMAL%26VISIBLE%20(1).html
 
 Ejemplo:
