@@ -10,7 +10,7 @@
 ## Superimposición imagen térmica y visible
 Las imágenes térmica y visible capturadas por el dron que está desarrolando LOCIS provienen de cámaras diferentes y tienen distintos parámetros internos (focal, resolución ,distorión). Además los sensores térmico y visible también están situados en lugares ligeramente deiferentes por motivos de espacio físico dentro del gimbal.
 
-![montura giroestabilizada](GimbalGeminiFRONT2.png) 
+![montura giroestabilizada](../GimbalGeminiFRONT2.png) 
 
 ## Características de las cámaras:
 De los datos suminsitrados por LOCIS y la página web del fabricante de la montura, el sensor, las especificaciones técnicas de las cámaras y los cabeceros EXIF de las imágenes, ha sido posible extraer los datos **genéricos** siguientes:
@@ -52,7 +52,7 @@ Ps_th = 17. # micras
 #### Cálculo de factores de conversión tamaño píxel y focales
 El proceso consistirá en escalar la imagen térmica hasta la distancia focal de la visible, aumentar la resolución de la imagen térmica para igualarla con la visible y 
 finalmente superimponer ambas. Se tendrán en cuenta las separaciones (horizontal y vertical) entre los ejes de ambas cámaras. 
-![Doble Cámara](FLIR_THERMAL2.jpg) 
+![Doble Cámara](../FLIR_THERMAL2.jpg) 
 
 
 ```python
