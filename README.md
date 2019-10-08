@@ -8,10 +8,11 @@ Se trata de escalar la imagen térmica al cuadro de la visible igualando sus res
 
 ### Código
 Este código Python se ejecuta sobre las imágenes de las carpetas _Termica_ y _RGB_ y escribe las imágenes compuestas en el directorio _superimposed_.
-
+#### Notebook python ilustrado
 https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/md/THERMAL-VISIBLE.md
 
-
+#### Script Python
+https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/CoRegistroTermicaVisibleV2.py
 
 Ejemplo:
 
