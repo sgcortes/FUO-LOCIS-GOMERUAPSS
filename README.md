@@ -8,7 +8,7 @@ Se presentan aquí algunos algoritmos de proceso de imagen térmica y visible pa
 ## 1. Superimposición imagen térmica y visible
 Se trata de escalar la imagen térmica al cuadro de la visible igualando sus resoluiones y superimponiendo ambas teniendo en cuenta que existe un desplazamiento horizontal y (probablemente vertical entre ellas).
 
-#### Libro python ilustrado
+#### python notebook
 https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/md/THERMAL-VISIBLE.md
 
 #### Script Python
@@ -17,11 +17,17 @@ https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/CoRegistroTermicaVi
 ## 2. Detección de anomalías en imágenes térmicas
 Dado que las anomalías pueden tener tamaños diferentes la técnica elegida para detectarla ha sido la de detectores de Blobs basados en LoG, HoG y Dog.
 El funcionamiento está comentado en este link:
-
+#### python notebook
 https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/ThermalBLOBS.md
+
+#### Script Python
+https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/ThermalBLOBS.py
 
 ### 3. Utilidad auxiliar: Lectura de información de cabeceros EXIF de imágenes
 
+#### python notebook
+
+#### Script Python
 
 #### Ejemplo imagen visible, térmica, superimpuestas y con Blobs detectados marcados:
 
