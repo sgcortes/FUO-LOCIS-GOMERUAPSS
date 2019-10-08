@@ -13,4 +13,7 @@ https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/THERMAL%26VISIBLE%2
 
 Ejemplo:
 
+![imagen térmica](https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/Termica/20190711_132654_R.jpg)
+![imagen RGB](https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/RGB/AMBA0331.JPG)
+![imagen compuesta](https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/superimposed/20190711_132654_RAMBA0331.JPG)
 
