@@ -6,7 +6,7 @@ Se presentan aquí algunos algoritmos de proceso de imagen térmica y visible pa
 3. Utilidad auxiliar: Lectura de información de cabeceros EXIF de imágenes
 
 ## 1. Superimposición imagen térmica y visible
-Se trata de escalar la imagen térmica al cuadro de la visible igualando sus resoluiones y superimponiendo ambas teniendo en cuenta que existe un desplazamiento horizontal y (probablemente vertical entre ellas).
+Se trata de escalar la imagen térmica al cuadro de la visible igualando sus resoluiones y superimponiendo ambas teniendo en cuenta que existe un desplazamiento horizontal y vertical entre ellas. Este script tiene 4 parámetros numéricos que se ajustaron para las posciones actuales de las cámras (las dos focales y los desplzamientos Ch y Cv). Si las cámaras se extraen o se vuelven a ajustar del gimbal será necesario volver a determinarlos en detalle.
 
 #### python notebook
 https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/md/THERMAL-VISIBLE.md
@@ -28,7 +28,7 @@ https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/ThermalBLOBS.py
 https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/RegistroExif/RegistroExif.m
 #### Script Python
 https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/RegistroExif.py
-#### Ejemplo imagen visible, térmica, superimpuestas y con Blobs detectados marcados:
+#### Ejemplo imagen visible, térmica, superimpuestas:
 
 ![imagen térmica](https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/Termica/20190711_132654_R.jpg)
 ![imagen RGB](https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/RGB/AMBA0331.JPG)
