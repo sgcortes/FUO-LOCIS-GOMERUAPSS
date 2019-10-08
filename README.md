@@ -19,16 +19,15 @@ Dado que las anomalías pueden tener tamaños diferentes la técnica elegida par
 El funcionamiento está comentado en este link:
 #### python notebook
 https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/ThermalBLOBS.md
-
 #### Script Python
 https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/ThermalBLOBS.py
 
 ### 3. Utilidad auxiliar: Lectura de información de cabeceros EXIF de imágenes
 
 #### python notebook
-
+https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/RegistroExif/RegistroExif.m
 #### Script Python
-
+https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/RegistroExif.py
 #### Ejemplo imagen visible, térmica, superimpuestas y con Blobs detectados marcados:
 
 ![imagen térmica](https://github.com/sgcortes/FUO-LOCIS-GOMERUAPSS/blob/master/Termica/20190711_132654_R.jpg)
